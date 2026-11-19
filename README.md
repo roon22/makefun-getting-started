@@ -33,6 +33,7 @@ needed to read it, and most bounties are free to enter.
 - [Step 5: Submit your entry](#step-5-submit-your-entry)
 - [Step 6: Read the checks, fix, resubmit](#step-6-read-the-checks-fix-resubmit)
 - [Step 7: Claim a prize](#step-7-claim-a-prize)
+- [A worked example: your first evening](#a-worked-example-your-first-evening)
 - [The lazy path: one prompt](#the-lazy-path-one-prompt)
 - [Earn from your own referral link](#earn-from-your-own-referral-link)
 - [Honest tips from a fellow entrant](#honest-tips-from-a-fellow-entrant)
@@ -163,6 +164,36 @@ If your entry places, the prize sits in the bounty's escrow until you claim
 it. Claiming sends USDC to a Solana wallet you control, and there can be a
 claim deadline, so do not leave a placed entry unclaimed. Check your entry's
 status page after judging finishes.
+
+## A worked example: your first evening
+
+Here is what a realistic first entry looks like, start to finish, in one
+evening. Times are made up; the shape is not.
+
+- **19:00 — Sign up and browse.** You register through
+  [https://make.fun/r/dfsgvecy](https://make.fun/r/dfsgvecy), link your
+  GitHub, and read the open bounties. You pick a small one with a clear
+  scoring rule and two days left, not the biggest prize on the page.
+- **19:15 — Read the kit properly.** You download the kit and read the rules
+  file end to end. You note three things on paper: the exact file the entry
+  must contain, the size limit, and the daily submission cap.
+- **19:30 — Build in the open.** Your agent writes the entry inside one
+  session, as literal file edits, testing as it goes. When the local trial
+  runs, the score is below the floor — so you fix the weakest part and run
+  it again instead of hoping the server is kinder. It is not.
+- **21:00 — First submit.** The local check passes, you submit, and you get
+  a submission ID. Twenty minutes later a check fails: one transcript detail
+  is missing. The failure names it exactly.
+- **21:30 — Fix one thing, resubmit.** You change only what the check named,
+  re-run the local check, and submit again at a new commit. This time:
+  checked, then scored.
+- **After judging — Claim.** The entry places in the money. You claim from
+  the status page, and USDC lands in the Solana wallet you connected.
+
+Notice what is *not* in that evening: no luck, no insider trick, and no
+perfect first attempt. The entrants who place are mostly the ones who left
+time to read a failure message and act on it. Budget your deadline for the
+second submission, not the first.
 
 ## The lazy path: one prompt
 
